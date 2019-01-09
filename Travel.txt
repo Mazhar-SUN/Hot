@@ -3,7 +3,7 @@ packing list
 -Jacket
 -Jeans
 -Shoes
-
+-Camera
 Picnic List
 -----------
 - Water
