@@ -4,6 +4,7 @@ packing list
 -Jeans
 -Shoes
 -Camera
+-Umbrella
 Picnic List
 -----------
 - Water
